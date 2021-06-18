@@ -1,2 +1,4 @@
-print("Hello from Binder!")
-print("asdadsd")
+print("Hola!")
+print("Halo")
+print("Hallå")
+print("hello")
